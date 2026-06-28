@@ -91,18 +91,18 @@ Paula Beron Silva Cardoso - paulacardosoof@gmail.com
 
 ## Materiais da Disciplina (PIT)
 
-*Fundamentos de Lógica e Python.
+* Fundamentos de Lógica e Python.
 
-*Estruturas Condicionais e de Repetição.
+* Estruturas Condicionais e de Repetição.
 
-*Manipulação de Listas, Dicionários e Funções.
+* Manipulação de Listas, Dicionários e Funções.
 
-*Persistência de Arquivos e Formato JSON.
+* Persistência de Arquivos e Formato JSON.
 
 ## Python e JSON
-*PYTHON SOFTWARE FOUNDATION. The Python Tutorial: Data Structures. Disponível em: https://docs.python.org/3/tutorial/datastructures.html. Acesso em: 27 jun. 2026.
+* PYTHON SOFTWARE FOUNDATION. The Python Tutorial: Data Structures. Disponível em: https://docs.python.org/3/tutorial/datastructures.html. Acesso em: 27 jun. 2026.
 
-*PYTHON SOFTWARE FOUNDATION. json - JSON encoder and decoder. Disponível em: https://docs.python.org/3/library/json.html. Acesso em: 27 jun. 2026.
+* PYTHON SOFTWARE FOUNDATION. json - JSON encoder and decoder. Disponível em: https://docs.python.org/3/library/json.html. Acesso em: 27 jun. 2026.
 
 ## Streamlit
-*STREAMLIT. Main Concepts & API Reference. Disponível em: https://docs.streamlit.io/. Acesso em: 27 jun. 2026.
+* STREAMLIT. Main Concepts & API Reference. Disponível em: https://docs.streamlit.io/. Acesso em: 27 jun. 2026.
