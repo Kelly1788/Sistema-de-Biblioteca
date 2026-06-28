@@ -52,7 +52,7 @@ Sistema-de-Biblioteca-main/
 
  biblioteca.json: Banco de dados local em formato JSON gerado dinamicamente para manter os dados salvos entre as execuções.
 
-Uso de Inteligência Artificial
+## Uso de Inteligência Artificial
 
 A IA foi utilizada como apoio para adaptar o projeto para Streamlit e organizar a documentação
 
@@ -75,11 +75,11 @@ Utilize menu lateral (sidebar), interface simples e moderna, mensagens de sucess
 
 "Quero que continue separado os codigos" 
 
-Links do Projeto
+## Links do Projeto
 
 Repositório no GitHub: https://github.com/Kelly1788/Sistema-de-Biblioteca
 
-Equipe:
+## Equipe:
 
 Jennifer Kelly Cunha Santos - Kellyjenni1001@gmail.com
 
@@ -87,9 +87,9 @@ Karina Lira de Almeida - liradealmeidakarina@gmail.com
 
 Paula Beron Silva Cardoso - paulacardosoof@gmail.com
 
-## Referências
+# Referências
 
-Materiais da Disciplina (PIT)
+## Materiais da Disciplina (PIT)
 
 *Fundamentos de Lógica e Python.
 
@@ -99,10 +99,10 @@ Materiais da Disciplina (PIT)
 
 *Persistência de Arquivos e Formato JSON.
 
-Python e JSON
+## Python e JSON
 *PYTHON SOFTWARE FOUNDATION. The Python Tutorial: Data Structures. Disponível em: https://docs.python.org/3/tutorial/datastructures.html. Acesso em: 27 jun. 2026.
 
 *PYTHON SOFTWARE FOUNDATION. json - JSON encoder and decoder. Disponível em: https://docs.python.org/3/library/json.html. Acesso em: 27 jun. 2026.
 
-Streamlit
+## Streamlit
 *STREAMLIT. Main Concepts & API Reference. Disponível em: https://docs.streamlit.io/. Acesso em: 27 jun. 2026.
