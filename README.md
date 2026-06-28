@@ -46,46 +46,49 @@ Sistema-de-Biblioteca-main/
 │   └── biblioteca.json
 └── README.md
 
- menu.py: Arquivo principal responsável por renderizar a interface web no Streamlit, gerenciar a navegação lateral e chamar os componentes visuais.
+### `menu.py` 
+Arquivo principal responsável por renderizar a interface web no Streamlit, gerenciar a navegação lateral e chamar os componentes visuais.
 
- funcoes.py: Módulo que centraliza a lógica do CRUD e as funções de manipulação do arquivo JSON (carga, escrita e modificação de registros).
+### ` funcoes.py`
+Módulo que centraliza a lógica do CRUD e as funções de manipulação do arquivo JSON (carga, escrita e modificação de registros).
 
- biblioteca.json: Banco de dados local em formato JSON gerado dinamicamente para manter os dados salvos entre as execuções.
+### `biblioteca.json`
+Banco de dados local em formato JSON gerado dinamicamente para manter os dados salvos entre as execuções.
 
 ## Uso de Inteligência Artificial
 
-A IA foi utilizada como apoio para adaptar o projeto para Streamlit e organizar a documentação
+A IA foi utilizada como apoio para adaptar o projeto para Streamlit e organizar a documentação.
 
 ## Prompts Utilizados
 
 Modularização do código:
 
-"Transforme meu sistema de biblioteca em uma aplicação Streamlit.
+"Transforme meu sistema de biblioteca em uma aplicação Streamlit."
 
-O sistema utiliza Python e JSON (biblioteca.json) para armazenar livros com os campos: id, titulo, autor, ano e disponivel.
+"O sistema utiliza Python e JSON (biblioteca.json) para armazenar livros com os campos: id, titulo, autor, ano e disponivel."
 
-A aplicação deve permitir:
+"A aplicação deve permitir:
 - Adicionar livros
 - Listar livros
 - Buscar livros por título
 - Atualizar livros
-- Remover livros
+- Remover livros"
 
-Utilize menu lateral (sidebar), interface simples e moderna, mensagens de sucesso/erro e mantenha a persistência dos dados no arquivo JSON.:
+"Utilize menu lateral (sidebar), interface simples e moderna, mensagens de sucesso/erro e mantenha a persistência dos dados no arquivo JSON.":
 
 "Quero que continue separado os codigos" 
 
 ## Links do Projeto
 
-Repositório no GitHub: https://github.com/Kelly1788/Sistema-de-Biblioteca
+* Repositório no GitHub: https://github.com/Kelly1788/Sistema-de-Biblioteca
 
 ## Equipe:
 
-Jennifer Kelly Cunha Santos - Kellyjenni1001@gmail.com
+* Jennifer Kelly Cunha Santos - Kellyjenni1001@gmail.com
 
-Karina Lira de Almeida - liradealmeidakarina@gmail.com
+* Karina Lira de Almeida - liradealmeidakarina@gmail.com
 
-Paula Beron Silva Cardoso - paulacardosoof@gmail.com
+* Paula Beron Silva Cardoso - paulacardosoof@gmail.com
 
 # Referências
 
